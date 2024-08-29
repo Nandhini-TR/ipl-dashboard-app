@@ -1,0 +1,51 @@
+.latest-match-bg-container {
+  background-color: #1e293b;
+  width: 90%;
+  height: 60vh;
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+.match-details-container {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-left: 10px;
+  width: 200px;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.date {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.result {
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+
+.venue {
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.team-logo {
+  height: 300px;
+}
+
+.headings {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 18px;
+}
